@@ -1,6 +1,6 @@
 <h1 style="background: linear-gradient(to right, red, orange, yellow); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 48px;">Loan Prediction</h1>
 
-![Images](Images/caratulaa.png)
+![Images](Images/Caratulaa.png)
 
 ## Buisines Statement
 
